@@ -1,4 +1,4 @@
-let bird;
+  let bird;
 
 function preload() {
   bird = loadImage('bird.jpg');
