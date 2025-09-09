@@ -53,6 +53,7 @@ function ellipseBrush(){
 function squareBrush(){
 	fill(random(255))
 	rect(mouseX,mouseY, 100,100)
+}
 
 	function birdBrush(){
 		image (bird,mouseX,mouseY,100,100)
